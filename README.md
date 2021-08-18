@@ -9,4 +9,10 @@ PyTorch is similar to NumPy in the way that it manages computations, but has a s
 PyTorch is a library for processing tensors. A tensor is a fundamental unit of data. It can be a number, vector, matrix, or any n-dimensional array. It is similar to Numpy arrays. <br/>
 
 This repository has the basic functions on Tensors including creating tensors, converting array to tensor, dot product  etc.
+<br/>
+<br/>
 
+
+For more notes:
+#### Visit
+#### [https://palak-j.github.io/notes]
