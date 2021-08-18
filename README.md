@@ -13,6 +13,6 @@ This repository has the basic functions on Tensors including creating tensors, c
 <br/>
 
 
-For more notes:
+For more such interesting codes and notes:
 #### Visit
 #### [https://palak-j.github.io/notes]
